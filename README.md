@@ -1,4 +1,4 @@
-# Customer Support Ticket Router — SWE015 Homework, Use Case 2
+# Customer Support Ticket Router — SWE015
 
 A support app that reads a free-text customer message, cleans it, predicts the intent with a
 confidence score and routes it to the right team. Low-confidence or out-of-scope messages go to a
